@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\origin_002\program\UnityChan\Assets\CameraController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Utage_test\Assets\Utage\Examples\Scripts\UtageUiTitle.cs">
     <Files>
-      <File FileName="..\..\..\origin_002\program\UnityChan\Assets\CameraController.cs" Line="7" Column="31" />
+      <File FileName="..\..\..\Utage_test\Assets\Utage\Examples\Scripts\UtageRecieveMessageFromAdvComannd.cs" Line="24" Column="2" />
+      <File FileName="..\..\..\Utage_test\Assets\Utage\Examples\Scripts\UtageUiTitle.cs" Line="27" Column="2" />
+      <File FileName="..\..\..\Utage_test\Assets\Utage\Examples\Scripts\UtageUiMainGame.cs" Line="15" Column="5" />
+      <File FileName="..\..\..\Utage_test\Assets\Utage\Examples\Scripts\UtageUiView.cs" Line="30" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,26 @@
+﻿Key	Japanese	English
+StartGame	はじめから	Start Game
+Load	ロード	Load
+Config	コンフィグ	Config
+Back	戻る	Back
+Title	タイトル	Title
+ResetDefault	ﾃﾞﾌｫﾙﾄ\nに戻す	Reset\nDefault
+MessageSpeed	メッセージ速度	Message speed
+AutoMessageSpeed	自動メッセージ速度	Auto message speed
+WindowTransparent	ウインドウの透明度	Window transparent
+SkipUnread	未読でもスキップする	Skip unread
+SkipReleasedBySelection	選択肢でスキップ解除	Skip released by selection
+SendMesssageByMouseWheel	マウスホイールで\n文字送り	Send messsage\nby mouse wheel
+FullScreen	フルスクリーン表示	Full screen
+SoundVolume	音量	Sound volume
+All	全体	All
+Bgm	BGM	BGM
+Se	SE	SE
+Ambience	環境音	Ambience
+Voice	ボイス	Voice
+ContinueUntilNext	次の音声まで再生を続ける	Continue until next
+StopOnClick	クリックで停止	StopOnClick
+CgGallery	CG回想	Cg Gallery
+SceneGallery	シーン回想	Scene Gallery
+SoundRoom	サウンドルーム	Sound Room
+Gallery	ギャラリー	Gallery

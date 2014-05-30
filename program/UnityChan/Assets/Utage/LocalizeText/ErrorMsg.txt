@@ -1,0 +1,32 @@
+﻿Key	Japanese	English
+NotFound	{0}:が見つかりません	{0} is not found
+UnknownType	 {0}: は不明なタイプです	{0} is unknown type 
+UnknownVersion	{0}は不明なバージョンです	{0} is unknown version
+ColorParse	カラー:{0} は書式が間違っています	Color:{0} is error
+SpriteMimMap	{0} ミップマップのあるテクスチャをスプライトに設定しようとしています	Cant make sprite from mimmap texture.
+UnknownFontData	フォントに未設定の文字です。 [ {0} ]		unknkown font data. [ {0} ]
+StringGridRowPraseColumnName	列:{0} は存在しないかデータが空です。		Column {0} is null or emptyr.
+StringGridRowPraseColumnIndex	{0} 列目は存在しないかデータが空です。		Column  index of {0} is null or emptyr.
+StringGridRowPrase	{0}  列目のデータ: {1} を値に変換できません。正しい書式で入力してください	Column {0}: {1}. Parser Error.
+StringGridParseHaeder	{0}:ヘッダーに指定した行が存在しません\n{1}	 {0}: Parser header error.\n{1}
+StringGridGetColumnIndex	{0}:指定の名前の列は見つかりません\n\{1}	 Column {0} is not found
+SoundNotReadyToPlay	{0}:はまだ再生準備が終わってません	{0}: Sound is not readey to play.
+TweenWrite	セーブすべきでないTween情報をセーブしようとしました		Tween save error
+FileWrite	{0} ファイル書き込みエラー {1}		{0} File write error.{1}
+FileRead	{0} ファイル読み込みエラー {1}		{0} File read error.{1}
+MemoryLeak	メモリリーク	Memory leak.
+FileReferecedIsNull	ファイルを参照しているオブジェクトがNULLです	The object refereced from file is null.
+FileIsNotReady	ファイルの使用準備が終わっていません。「ReadyToUse」を使ってください	File is not ready. Call "ReadyToUse".
+DisableChangeFileLoadFlag	ロード済みのファイルのロードフラグは変えられません	Disable change FileLoadFlag
+DisableChangeFileVersion	ロード済みのファイルのバージョンは変えられません	Disable change FileVersion
+SingletonError	シングルトンなオブジェクトを二個以上作ろうとしました	Can't create two ormore  singlton Object.
+NoChacheTypeFile	キャッシュ書き込みしないファイルです	Not cache type file.
+ExpUnknownParameter	{0} :不明なパラメーターです。	Unknown paramter {0}.
+ExpIllegal	不正な式の記述です	Exceptoin parse error.{0}
+PivotParse	ピボット:{0} は書式が間違っています	Pivot parse error.{0}
+TextTagParse	テキストに不正な書式があります。< {0}	Text parse error.{0}
+TextCallbackCalcExpression	文字列を数式に変換するコールバックが登録されていません 	CallbackCalcExpression is not assigend.
+TextFailedCalcExpression	演算に失敗しました 	Failed calculate expression.
+ExpressionOperateSubstition	{0} に {1} を代入できません 	Exceptoin operate error.{1}to{0}
+ExpressionOperator	演算子:{0} を適用できません 	Exceptoin operator {0} error.
+

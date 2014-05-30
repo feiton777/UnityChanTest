@@ -1,0 +1,34 @@
+﻿Key	Japanese	English
+Yes	はい	Yes
+No	いいえ	No
+Ok	OK	OK
+Cancel	キャンセル	Cancel
+Back	もどる	Back
+Clear	クリア	Clear
+Retry	リトライ	Retry
+History	履歴	History
+Save	セーブ	Save
+Load	ロード	Load
+On	オン	On
+Off	オフ	Off
+None	なし	None
+Sound	サウンド	Sound
+Review	レビュー	Review
+Restore	リストア	Restore
+QuitGame	ゲームを終了しますか？	Quit Game?
+DebugInfo	●デバッグ情報	Debug Info
+DebugLog	●デバッグログ	Debug Log
+DebugMenu	●デバッグメニュー	Debug Memu
+DeleteSaveAndQuit	セーブ消去＆終了	Delete Save
+DeleteCacheFile	ｷｬｯｼｭﾌｧｲﾙ削除	Delete Cache
+Language	言語	Language
+DeleteAllSaveDataFilesTitle	「宴」のセーブデータを消去	Delete save data of "Utage"
+DeleteAllSaveDataFilesMessage	「宴」のセーブデータを全て消去しますか？		Are you sure you want to clear all saved data of "Utage"?
+DeleteAllCacheFilesTitle	「宴」のキャッシュファイルを消去		Delete cache files of "Utage"
+DeleteAllCacheFilesMessage	「宴」のキャッシュファイルを全て消去しますか？		Are you sure you want to clear all cache files of "Utage"?
+DeleteAllOutputFilesTitle	「宴」の出力ファイルを消去		Delete output files of "Utage"
+DeleteAllOutputFilesMessage	「宴」の出力ファイル（セーブデータとキャッシュファイル）を全て消去しますか？		Are you sure you want to clear all (cache file and save data) output file of "Utage"?
+
+
+
+

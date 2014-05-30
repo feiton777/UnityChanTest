@@ -49,15 +49,27 @@
      <Compile Include="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
+     <None Include="Assets\Utage\LocalizeText\SystemText.txt" />
+     <None Include="Assets\Utage\Editor\npoi2.0.1\Read Me.txt" />
      <None Include="Assets\UnityChan\Voice\unity-chan_voice_list.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
+     <None Include="Assets\Utage\Examples\ScriptableObject\ExampleText.txt" />
+     <None Include="Assets\Utage\Editor\npoi2.0.1\License.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
+     <None Include="Assets\Utage\Scripts\GameLib\iTween\Plugins\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\Utage\ReadMe.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
+     <None Include="Assets\Utage\Editor\npoi2.0.1\Release Notes.txt" />
+     <None Include="Assets\Utage\LocalizeText\ErrorMsg.txt" />
+     <None Include="Assets\Utage\LocalizeText\AdvErrorMsg.txt" />
+ <Reference Include="UtageFree">
+ <HintPath>Assets\Utage\UtageFree.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
